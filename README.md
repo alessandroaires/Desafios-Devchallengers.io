@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/alessandroaires/Desafio-404">
+    <a href="https://github.com/alessandroaires/Desafios-Devchallengers.io">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/alessandroaires/Desafio-404/blob/main/vigorous-swirles-a5623f_netlify_app_.png)
+![screenshot](https://github.com/alessandroaires/Desafios-Devchallengers.io/blob/main/site/vigorous-swirles-a5623f_netlify_app_.png)
 
 
 
